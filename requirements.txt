@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+matplotlib
+seaborn
+yfinance
+streamlit
+requests
